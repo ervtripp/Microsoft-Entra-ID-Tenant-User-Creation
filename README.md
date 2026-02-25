@@ -33,11 +33,11 @@ Now that the user is created, you can delete a user as well as restore a deleted
 <br />
 On the left hand side you can select "Groups". Here you create a group to add users to. You can choose group type, name, description and membership type. Once created the group will appear under "Groups" list:
 <img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1771981919/Screenshot_2026-02-24_201136_fruqmo.png"/>
-<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1771980750/image-31d6dfe2-de73-4f2c-b8b4-e247950d0d42_ogoy89.png"/>
+<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1771980742/image-ba6f7668-a59f-4cec-90c8-e72eb903d57f_dps5nd.png"/>
 <br />
 <br />
 Now that the group is created, once you go into it, you'll see options for the group as we'll add newly created user:
-<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1771980742/image-ba6f7668-a59f-4cec-90c8-e72eb903d57f_dps5nd.png"/>
+<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1771980750/image-31d6dfe2-de73-4f2c-b8b4-e247950d0d42_ogoy89.png"/>
 <br />
 <br />
 
